@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class FreeLance {
 
@@ -8,7 +9,22 @@ public class FreeLance {
        String name;
        int total; 
        
-       Scanner 
+       Scanner input = new Scanner(System.in);
+       
+       System.out.println("What is your name? ");
+       name = input.next ();
+       
+       
+       System.out.println("Please enter a number  ");
+       num1 = input.nextInt();
+       
+       System.out.println("Please enter a number ");
+       num2 = input.nextInt();
+       
+       total = num1 + num2; 
+    		   
+    	System.out.println("Your name is  " + "Your total is  "); 
+       
        
        
 	}
