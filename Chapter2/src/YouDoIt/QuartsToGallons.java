@@ -4,17 +4,18 @@ public class QuartsToGallons {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       
-		int QUARTS_IN_GALLONS = 4 ; 
-	    Quarts remaining; 
-		total Gallons;
+        
+		int numberOfQuartsNeeded = 18;
+		int QUARTS_IN_GALLONS = 4 ;  
+		int totalGallons;
+		int numberOfQuartsRemaining; 
+		totalGallons = numberOfQuartsNeeded/QUARTS_IN_GALLONS;  
+		numberOfQuartsRemaining = numberOfQuartsNeeded % QUARTS_IN_GALLONS; 
 		
-		
-		System.out.println("");
-		System.out.println(""); 
-		
-		
-		
+		System.out.println("numbers of quarts needed >> " + numberOfQuartsNeeded); 
+		System.out.println("Quarts in a gallon is >> " + QUARTS_IN_GALLONS);
+		System.out.println("The amounts of total gallons is >> " + totalGallons);
+		System.out.println("Remaining quarts are >> " + numberOfQuartsRemaining);
 		
 		
 		
