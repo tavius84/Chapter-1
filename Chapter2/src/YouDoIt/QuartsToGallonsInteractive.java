@@ -16,5 +16,10 @@ public class QuartsToGallonsInteractive {
 		System.out.println("The amounts of total gallons is >> " + totalGallons);
 		System.out.println("Remaining quarts are >> " + numberOfQuartsRemaining);
 	}
-
-}
+public static void displayConversion() {
+	
+	
+	
+	
+	
+} }
