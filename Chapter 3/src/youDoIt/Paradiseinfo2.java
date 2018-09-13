@@ -2,7 +2,7 @@ package youDoIt;
 
 import java.util.Scanner;
 
-public class Paradiseinfo {
+public class Paradiseinfo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
