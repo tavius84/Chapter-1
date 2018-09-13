@@ -10,6 +10,11 @@ public class InchesToFeet {
 		int feet = 12; 
 		int inchesEntered = 86;
 		
+		feetRemaining = inchesEntered/feet;
+		feetRemaining = 7;
+		inchesRemaining = inchesEntered % feet;
+		
+		System.out.println("you have this many feet " + feetRemaining + " and " + inchesRemaining + " inches " ); 
 		
 		
 	}
