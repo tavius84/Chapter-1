@@ -1,12 +1,20 @@
 package exercises;
 
+import java.util.Scanner;
+
 public class Percentages {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       double x = 5;
-       double y= 12;
-		
+       double x;
+       double y;
+       Scanner input  = new Scanner(System.in); 
+       System.out.println(" Please enter an number >> ");
+       x = input.nextDouble();
+       
+       System.out.println(" Please enter an number >> ");
+       y = input.nextDouble();
+       
        computePercent(x, y);
 		
 		
