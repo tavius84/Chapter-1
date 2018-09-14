@@ -35,7 +35,7 @@ public class Testlbs {
 		// TODO Auto-generated method stub
 		double lbsToKilograms;
 		
-		lbsToKilograms = lbs / 2.2046226218;
+		lbsToKilograms = lbs * 2.2046226218;
 		
 		 System.out.println("Your weight in Kilograms >> " + lbsToKilograms);
 		
@@ -45,7 +45,7 @@ public class Testlbs {
 		// TODO Auto-generated method stub
 		 double lbsToMilligrams; 
 		
-		 lbsToMilligrams = lbs / 0.45359237; 
+		 lbsToMilligrams = lbs * 0.45359237; 
 		 
 		 System.out.println("Your weight in Milligrams >> " + lbsToMilligrams);
 		 
