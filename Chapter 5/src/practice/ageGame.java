@@ -32,8 +32,8 @@ public class ageGame {
 		else if(usersAge >= 51 && usersAge <=60) {
 			result = " enjoy retirement.";
 			}
-		else if(usersAge >=61 && usersAge > 61) {
-			result = " Sleep now, be dead.";
+		else if(usersAge >=61) {
+			result = " Your tired, sleep.";
 			}
 		displayMessage(result);	
 		//o-12
