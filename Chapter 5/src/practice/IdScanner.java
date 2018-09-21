@@ -30,7 +30,7 @@ public class IdScanner {
             result = "Adam Burton";
             break; 
         case 137160:
-            result = "Zach	Canada";
+            result = "Zach Canada";
             break; 
         case 153184:
             result = "Jayden Graap";
@@ -51,16 +51,16 @@ public class IdScanner {
             result = "Cheyenne Jones";
             break; 
         case 274894:
-            result = "John 	Brosius";
+            result = "John Brosius";
             break; 
         case 118314:
-            result = "Benjamen	Brooks";
+            result = "Benjamen Brooks";
             break; 
         case 146891:
             result = "De'Antwan	Hanes";
             break; 
         case 146468:
-            result = "Noah	Giles";
+            result = "Noah Giles";
             break; 
         case 274888:
             result = "Travis Hodges";
